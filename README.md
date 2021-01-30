@@ -27,7 +27,18 @@ _This is the docs site part as that's all there, but a screenshot of your applic
 </div>
 
 
+## Related projects
+
+[![MichaelCurrin - py-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=py-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/py-project-template)
+[![MichaelCurrin - go-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=go-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/go-project-template)
+[![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template)
+[![MichaelCurrin - deno-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=deno-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/deno-project-template)
+[![MichaelCurrin - react-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-quickstart)
+
+
 ## Documentation
+
+_This is template project doesn't actually run any code, but it comes with a minimal docs site with some placeholder values. Mostly using `make` commands for the [Makefile](/Makefile) - this is aimed at macOS and Linux users._
 
 <div align="center">
 
