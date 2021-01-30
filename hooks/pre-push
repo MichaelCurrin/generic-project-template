@@ -1,0 +1,11 @@
+#!/bin/sh -e
+
+# On a feature branch that has no remote yet, this first part would fail.
+git pull --rebase || git pull --rebase origin main
+
+make all
+
+# TODO: Exit here if working tree is not clean - that may slow down dev as I have to stash. But also
+# I don't want to make fixes, not commit them and push. I'd rather run just checks for all. But if
+# there are fixes, then I still have to run fix alone. Having `fix` is useful then.
+# Or just make build instead of make all.
