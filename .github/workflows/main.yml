@@ -1,0 +1,42 @@
+# TODO: Replace 'TOOL' with 'Python', 'Go', 'Node', etc.
+name: TOOL CI
+
+on:
+  push:
+    branches: main
+    paths-ignore:
+      - "docs/**"
+  pull_request:
+    branches: main
+    paths-ignore:
+      - "docs/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up latest Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.X
+
+      - name: Install dependencies
+        run: make install
+
+      - name: Install dev dependencies
+        run: make install-dev
+
+      - name: Check formatting
+        run: make format-check
+
+      - name: Lint
+        run: make lint
+
+      - name: Run unit tests
+        run: make unit
+
+      - name: Build
+        run: make build
