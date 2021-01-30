@@ -34,7 +34,7 @@ jobs:
         run: make lint-check
 
       - name: Run unit tests
-        run: make unit
+        run: make test
 
       - name: Build
         run: make build
