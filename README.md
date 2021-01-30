@@ -28,7 +28,11 @@ _This is the docs site part as that's all there, but a screenshot of your applic
 
 ## Documentation
 
+<div align="center">
+
 [![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](https://github.com/MichaelCurrin/generic-project-template/)
+
+</div>
 
 
 ## License
