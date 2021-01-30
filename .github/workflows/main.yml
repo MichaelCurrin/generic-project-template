@@ -18,10 +18,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set up latest Python 3
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.X
+      - name: Set up Python / Node / Ruby / Go / Rust / etc.
+        run: echo 'Setup environmen here'
 
       - name: Install dependencies
         run: make install
@@ -30,10 +28,10 @@ jobs:
         run: make install-dev
 
       - name: Check formatting
-        run: make format-check
+        run: make fmt-check
 
       - name: Lint
-        run: make lint
+        run: make lint-check
 
       - name: Run unit tests
         run: make unit
