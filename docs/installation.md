@@ -42,7 +42,8 @@ You may continue to the [Usage](usage.md) doc or continue here.
 $ make install-dev
 ```
 
-### Upgrade dependencies
+
+## Upgrade dependencies
 
 ```sh
 $ make upgrade
