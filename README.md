@@ -1,7 +1,7 @@
 # Generic Project Template
 > Starter project for any programming language - including docs and CI
 
-[![CI](https://github.com/MichaelCurrin/generic-project-template/workflows/CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow%3ACI)
+[![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow%3A%22Placeholder+CI%22)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/generic-project-template?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/generic-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
