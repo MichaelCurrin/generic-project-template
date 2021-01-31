@@ -30,5 +30,12 @@ See workflow runs in here:
 
 - [Actions](https://github.com/MichaelCurrin/generic-project-template/actions) tab.
 
-
 To learn about how to build and maintain a workflow, see my [Workflow Builder](https://michaelcurrin.github.io/workflow-builder/) project.
+
+_TODO: In your copy of this template, rename your workflow to something like:
+
+```yaml
+name: Python CI
+```
+
+And then update your CI badge in your `README.md` to match this.
