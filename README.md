@@ -1,14 +1,17 @@
 # Generic Project Template
 > Starter project for any programming language - including docs and CI
 
+<!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 [![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow%3A%22Placeholder+CI%22)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/generic-project-template?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/generic-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+_TODO: Add badges here to show your project was made with Python, Node, Go, etc. See [Catalogue](https://michaelcurrin.github.io/badge-generator/#/catalogue)._
+
 
 ## Preview
 
-_This is the docs site part as that's all there, but a screenshot of your application or your website would go here._
+_TODO: This is the docs site part as that's all there is. You could use a screenshot of your website, or of sample input and output in the CLI or a scripting language._
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/generic-project-template/">
@@ -20,11 +23,22 @@ _This is the docs site part as that's all there, but a screenshot of your applic
 
 <div align="center">
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
+<!-- TODO: Point this at your website or your docs site. -->
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
 
+<!-- TODO: Remove the template badge in your copy. -->
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/generic-project-template/generate)
 
 </div>
+
+
+## Sample usage
+
+_TODO: Add just a few lines to show how to use your application. Such as a Python or shell snippet._
+
+```sh
+$ make run
+```
 
 
 ## Documentation
