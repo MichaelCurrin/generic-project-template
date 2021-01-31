@@ -47,7 +47,15 @@ _This is template project doesn't actually run any code, but it comes with a min
 
 <div align="center">
 
-[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
+[![View - Online docs](https://img.shields.io/badge/View-Online_docs-blue?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
+
+</div>
+
+_If you don't want a docs site, you can just link to your docs directory_.
+
+<div align="center">
+
+[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/)
 
 </div>
 
