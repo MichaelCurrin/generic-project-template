@@ -10,3 +10,7 @@ permalink: /
 - [Usage](usage.md)
 - [Deploy](deploy.md)
 - [Development](development.md)
+
+View source:
+
+[![MichaelCurrin - generic-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=generic-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/generic-project-template)
