@@ -26,7 +26,7 @@ See the workflow on GitHub:
 
 - [main.yml](https://github.com/MichaelCurrin/generic-project-template/blob/main/.github/workflows/main.yml) file.
 
-See workflow runs in here:
+See workflow runs here:
 
 - [Actions](https://github.com/MichaelCurrin/generic-project-template/actions) tab.
 
