@@ -1,5 +1,5 @@
 # Generic Project Template
-> Starter template for a project in any programming language - includes docs and CI
+> Starter template for a project in any programming language - includes docs, Makefile and GH Actions CI
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 [![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow%3A%22Placeholder+CI%22)
