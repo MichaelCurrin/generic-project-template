@@ -1,6 +1,6 @@
 default: install install-dev
 
-all: hooks install install-dev fmt-check lint-check test build
+all: hooks install install-dev check build
 
 
 h help:
@@ -30,11 +30,11 @@ lint-fix:
 lint-check:
 	@echo "TODO: Add lint check step"
 
-f fix: fmt-fix lint-fix
-
-
 test:
 	@echo "TODO: Add unit tests step"
+
+fix: fmt-fix lint-fix
+check: fmt-check lint-check test
 
 
 run:
