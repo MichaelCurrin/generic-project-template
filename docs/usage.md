@@ -14,21 +14,34 @@ $ make help
 ```
 
 
-## Format
+## Apply fixes
+
+### Fix all
+
+```sh
+$ make fix
+```
+
+### Format
+
+Apply formatting fixes.
 
 ```sh
 $ make fmt-fix
 ```
 
+### Lint
 
-## Lint
+Apply lint fixes and alert on bad code.
 
 ```sh
 $ make lint-fix
 ```
 
 
-## Run unit tests
+## Test
+
+Run unit tests.
 
 ```sh
 $ make test
