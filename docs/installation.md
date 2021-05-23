@@ -5,10 +5,10 @@ _TODO: Delete any sections not needed._
 
 ## Project requirements
 
-_TODO: Add content here_.
+_TODO: Add content here with link to the homepage for the tool_.
 
-- [Make](#)
-- [Postgres](#)
+- [Make](https://www.gnu.org/software/make/)
+- [PostgreSQL](#)
 - [Node](#)
 - [Python](#)
 - etc.
@@ -27,8 +27,6 @@ _TODO: Add content here around configuration and virtual environments._
 
 
 ## Install project dependencies
-
-_TODO: Add content here_.
 
 ```sh
 $ make install
