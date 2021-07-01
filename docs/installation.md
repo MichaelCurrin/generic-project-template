@@ -14,6 +14,16 @@ _TODO: Add content here with link to the homepage for the tool_.
 - etc.
 
 
+## Clone
+
+Clone the repo:
+
+```sh
+$ git clone git@github.com:MichaelCurrin/generic-project-template.git
+$ cd generic-project-template
+```
+
+
 ## Install hooks
 
 ```sh
