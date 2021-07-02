@@ -9,13 +9,7 @@ Build your application and generate production-ready output in the ignored `buil
 $ make build
 ```
 
-Run this locally to check the app builds correctly. That is also in the CI/CD flow, covered below.
-
-For more confidence that everything in the CI will install correctly and checks will pass, run this:
-
-```sh
-$ make all
-```
+That is useful to run locally to check the app builds correctly.
 
 
 ## CI/CD
