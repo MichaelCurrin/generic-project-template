@@ -1,12 +1,12 @@
 # Generic Project Template
 > Starter template for a project in any programming language - including docs, Makefile, and GH Actions CI
 
-_TODO: Generated badges with [Badge Generator](https://michaelcurrin.github.io/badge-generator/)._
+_TODO: Generate more badges with [Badge Generator](https://michaelcurrin.github.io/badge-generator/)._
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
-[![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow:"Placeholder+CI")
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/generic-project-template?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/generic-project-template/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow:"Placeholder+CI" "Go GitHub Actions workflow")
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/generic-project-template?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/generic-project-template/releases/ "Go to GitHub releases")
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
 
 _TODO: Add badges here to show your project was made with Python, Node, Go, etc. Copy from Badge Generator [Catalogue](https://michaelcurrin.github.io/badge-generator/#/catalogue)._
 
