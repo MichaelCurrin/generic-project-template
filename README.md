@@ -1,12 +1,16 @@
 # Generic Project Template
-> Starter template for a project in any programming language - includes docs, Makefile and GH Actions CI
+> Starter template for a project in any programming language - including docs, Makefile, and GH Actions CI
+
+_TODO: Generated badges with [Badge Generator](https://michaelcurrin.github.io/badge-generator/)_
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
-[![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow%3A%22Placeholder+CI%22)
+[![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow:"Placeholder+CI")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/generic-project-template?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/generic-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-_TODO: Add badges here to show your project was made with Python, Node, Go, etc. See [Catalogue](https://michaelcurrin.github.io/badge-generator/#/catalogue)._
+_TODO: Add badges here to show your project was made with Python, Node, Go, etc. Copy from Badge Generator [Catalogue](https://michaelcurrin.github.io/badge-generator/#/catalogue)._
+
+...
 
 
 ## Preview
@@ -15,7 +19,7 @@ _TODO: This is the docs site part as that's all there is. You could use a screen
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/generic-project-template/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
+        <img src="/sample.png" alt="Sample screenshot" title="Go to website" width="350" />
     </a>
 </div>
 
@@ -47,7 +51,7 @@ _This is template project doesn't actually run any code, but it comes with a min
 
 <div align="center">
 
-[![View - Online docs](https://img.shields.io/badge/View-Online_docs-blue?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
+[![View - Online docs](https://img.shields.io/badge/View-Online_docs-blue?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/ "Go to online documentation")
 
 </div>
 
@@ -55,7 +59,7 @@ _If you don't want a docs site, you can just link to your docs directory_.
 
 <div align="center">
 
-[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/)
+[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/ "Go to documentation directory")
 
 </div>
 
