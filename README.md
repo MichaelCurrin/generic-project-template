@@ -1,7 +1,7 @@
 # Generic Project Template
 > Starter template for a project in any programming language - including docs, Makefile, and GH Actions CI
 
-_TODO: Generated badges with [Badge Generator](https://michaelcurrin.github.io/badge-generator/)_
+_TODO: Generated badges with [Badge Generator](https://michaelcurrin.github.io/badge-generator/)._
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 [![Placeholder CI](https://github.com/MichaelCurrin/generic-project-template/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/generic-project-template/actions?query=workflow:"Placeholder+CI")
