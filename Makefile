@@ -45,6 +45,7 @@ s serve:
 	@echo "TODO: Add dev server step"
 
 
+.PHONY: build
 build:
 	@echo "TODO: Add production build step"
 	mkdir -p build
