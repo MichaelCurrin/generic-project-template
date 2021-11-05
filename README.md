@@ -10,8 +10,6 @@ _TODO: Generate more badges with [Badge Generator](https://michaelcurrin.github.
 
 _TODO: Add badges here to show your project was made with Python, Node, Go, etc. Copy from Badge Generator [Catalogue](https://michaelcurrin.github.io/badge-generator/#/catalogue)._
 
-...
-
 
 ## Preview
 
@@ -31,7 +29,7 @@ _TODO: This is the docs site part as that's all there is. You could use a screen
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
 
 <!-- TODO: Remove the template badge in your copy. -->
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/generic-project-template/generate)
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/generic-project-template/generate)
 
 </div>
 
@@ -70,9 +68,11 @@ Here are some more templates of mine. These have a similar layout to this projec
 
 [![MichaelCurrin - py-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=py-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/py-project-template)
 [![MichaelCurrin - go-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=go-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/go-project-template)
+[![MichaelCurrin - rust-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=rust-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/rust-project-template)
 [![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template)
 [![MichaelCurrin - deno-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=deno-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/deno-project-template)
 [![MichaelCurrin - react-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-quickstart)
+[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
 
 ## License
