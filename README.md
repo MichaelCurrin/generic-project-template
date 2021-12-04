@@ -17,7 +17,7 @@ _TODO: This is the docs site part as that's all there is. You could use a screen
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/generic-project-template/">
-        <img src="/sample.png" alt="Sample screenshot" title="Go to website" width="350" />
+        <img src="/sample.png" alt="Sample screenshot" title="Go to website" width="400" />
     </a>
 </div>
 
