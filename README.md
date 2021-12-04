@@ -28,10 +28,13 @@ _TODO: This is the docs site part as that's all there is. You could use a screen
 <!-- TODO: Point this at your website or your docs site. -->
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/)
 
-<!-- TODO: Remove the template badge in your copy. -->
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/generic-project-template/generate)
-
 </div>
+
+## Template
+
+<!-- TODO: Remove this template section from your copy. -->
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/generic-project-template/generate)
 
 
 ## Sample usage
@@ -77,4 +80,6 @@ Here are some more templates of mine. These have a similar layout to this projec
 
 ## License
 
+<!-- TODO: Replace with your username and update the LICENSE file contents. -->
 Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+
