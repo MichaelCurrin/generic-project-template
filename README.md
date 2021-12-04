@@ -48,10 +48,11 @@ $ make run
 
 ## Documentation
 
-_This is template project doesn't actually run any code, but it comes with a minimal docs site with some placeholder values. Mostly using `make` commands for the [Makefile](/Makefile) - this is aimed at macOS and Linux users._
+_This is template project doesn't actually run any code, but it comes with a minimal docs site with some placeholder values linked below. Mostly using `make` commands for the [Makefile](/Makefile) - this is aimed at macOS and Linux users._
 
 <div align="center">
 
+<!-- TODO: Replace with your own docs site URL. -->
 [![View - Online docs](https://img.shields.io/badge/View-Online_docs-blue?style=for-the-badge)](https://michaelcurrin.github.io/generic-project-template/ "Go to online documentation")
 
 </div>
