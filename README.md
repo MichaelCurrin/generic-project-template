@@ -65,8 +65,20 @@ _If you don't want a docs site, you can just link to your docs directory_.
 
 </div>
 
+## Template notes
 
-## Similar projects
+### GitHub Actions
+
+Learn more:
+
+- [GitHub Actions](https://michaelcurrin.github.io/dev-resources/resources/ci-cd/github-actions/) on Dev Resources.
+
+For more info on steps you can add to the [main.yml](.github/workflows/main.yml) workflow, see:
+
+- https://michaelcurrin.github.io/workflow-builder/
+
+
+### Similar projects
 
 Here are some more templates of mine. These have a similar layout to this project, but they cover a structure for actually installing packages and running some placeholder code.
 
@@ -83,4 +95,3 @@ Here are some more templates of mine. These have a similar layout to this projec
 
 <!-- TODO: Replace with your username and update the LICENSE file contents. -->
 Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
-
