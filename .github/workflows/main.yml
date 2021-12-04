@@ -19,7 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
    
-        # For ides, see https://michaelcurrin.github.io/workflow-builder/
       - name: Set up Python / Node / Ruby / Go / Rust / etc.
         run: echo 'Set up environment here'
 
