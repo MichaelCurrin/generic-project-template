@@ -21,6 +21,8 @@ _TODO: Add badges here to show your project was made with Python, Node, Go, etc.
 
 </div>
 
+See the [Template Notes](/docs/template-notes/) part of the docs for more info.
+
 
 ## Preview
 
