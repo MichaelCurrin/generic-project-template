@@ -46,10 +46,9 @@ _TODO: This is the docs site part as that's all there is. You could use a screen
 
 ## Sample usage
 
-_TODO: Add just a few lines to show how to use your application. Such as a Python or shell snippet._
+_TODO: Add just a few lines to show how to use your application. Such as an Python/Node interpreter snippet or shell snippet._
 
 ```sh
-$ pip install foo-bar
 $ foo-bar --help
 ```
 
