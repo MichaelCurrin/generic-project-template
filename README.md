@@ -11,6 +11,17 @@ _TODO: Generate more badges with [Badge Generator](https://michaelcurrin.github.
 _TODO: Add badges here to show your project was made with Python, Node, Go, etc. Copy from Badge Generator [Catalogue](https://michaelcurrin.github.io/badge-generator/#/catalogue)._
 
 
+## How to use this starter project
+
+<div align="center">
+
+<!-- TODO: Remove this template section from your copy. -->
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/generic-project-template/generate)
+
+</div>
+
+
 ## Preview
 
 _TODO: This is the docs site part as that's all there is. You could use a screenshot of your website, or of sample input and output in the CLI or a scripting language._
@@ -30,18 +41,18 @@ _TODO: This is the docs site part as that's all there is. You could use a screen
 
 </div>
 
-## Template
-
-<!-- TODO: Remove this template section from your copy. -->
-
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/generic-project-template/generate)
-
 
 ## Sample usage
 
 _TODO: Add just a few lines to show how to use your application. Such as a Python or shell snippet._
 
 ```sh
+$ pip install foo-bar
+$ foo-bar --help
+```
+
+```sh
+$ make install
 $ make run
 ```
 
@@ -64,31 +75,6 @@ _If you don't want a docs site, you can just link to your docs directory_.
 [![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/ "Go to documentation directory")
 
 </div>
-
-## Template notes
-
-### GitHub Actions
-
-Learn more:
-
-- [GitHub Actions](https://michaelcurrin.github.io/dev-resources/resources/ci-cd/github-actions/) on Dev Resources.
-
-For more info on steps you can add to the [main.yml](.github/workflows/main.yml) workflow, see:
-
-- https://michaelcurrin.github.io/workflow-builder/
-
-
-### Similar projects
-
-Here are some more templates of mine. These have a similar layout to this project, but they cover a structure for actually installing packages and running some placeholder code.
-
-[![MichaelCurrin - py-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=py-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/py-project-template)
-[![MichaelCurrin - go-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=go-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/go-project-template)
-[![MichaelCurrin - rust-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=rust-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/rust-project-template)
-[![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template)
-[![MichaelCurrin - deno-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=deno-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/deno-project-template)
-[![MichaelCurrin - react-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-quickstart)
-[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
 
 ## License
